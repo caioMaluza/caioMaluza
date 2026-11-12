@@ -14,10 +14,23 @@ Estudante de **Engenharia de Software na FIAP** e entusiasta de desenvolvimento 
 
 ###  Estatísticas do GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=caioMaluza&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioMaluza&layout=compact&theme=transparent&hide_border=true" />
-</p>
+
+
+<div align="center">
+
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api?username=caioMaluza&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=caioMaluza&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+
+</div>
 
 ---
 
